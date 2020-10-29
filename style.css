@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background-image: url("img/Village.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("img/board.jpg");
+  background-size: contain;
+  height: 500px;
+}
